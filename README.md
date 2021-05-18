@@ -1,2 +1,2 @@
 # Machine-Learning
-Exercise sheets of the lecture machine learning
+Project in the framework of the machine learning seminar at TU dortmune
